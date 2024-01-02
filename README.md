@@ -22,19 +22,24 @@ Welcome to Dragon Repeller, an epic text-based adventure game where you embark o
 
 ```bash
 git clone https://github.com/your-username/Dragon-Repeller.git
+```
 
-Code Structure 🧱
-HTML: The game's user interface structure.
-CSS: Styles for a visually appealing experience.
-JavaScript: Game logic and interactions.
-Contributing 🤝
+## Code Structure 🧱
+
+- **HTML:** The game's user interface structure.
+- **CSS:** Styles for a visually appealing experience.
+- **JavaScript:** Game logic and interactions.
+
+## Contributing 🤝
+
 Contributions are welcome! Feel free to open issues, suggest improvements, or add new features. Together, we can make Dragon Repeller even more legendary!
 
-Credits 🙌
+## Credits 🙌
+
 Dragon Repeller is brought to you by [Your Name]. Special thanks to the open-source community for their invaluable contributions.
 
-License 📜
+## License 📜
+
 This project is licensed under the MIT License.
 
 Happy gaming! 🎮✨
-```
