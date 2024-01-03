@@ -36,7 +36,7 @@ Contributions are welcome! Feel free to open issues, suggest improvements, or ad
 
 ## Credits 🙌
 
-Dragon Repeller is brought to you by [Your Name]. Special thanks to the open-source community for their invaluable contributions.
+Dragon Repeller is brought to you by Malinov. Special thanks to the freecodecamp.com & open-source community for their invaluable contributions.
 
 ## License 📜
 
