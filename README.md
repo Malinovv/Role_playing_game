@@ -21,7 +21,7 @@ Welcome to Dragon Repeller, an epic text-based adventure game where you embark o
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Dragon-Repeller.git
+git clone https://github.com/Malinovv/Role_playing_game.git
 ```
 
 ## Code Structure 🧱
